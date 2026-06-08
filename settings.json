@@ -1,13 +1,13 @@
 {
   "name": "Technoblade",
   "bot-account": {
-    "username": "AFK-Bot",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "anunrealsmp.aternos.me",
-    "port": 29421,
+    "ip": "RL-craft_Dregora.aternos.me",
+    "port": 30510,
     "version": "1.21.1"
   },
   "position": {
